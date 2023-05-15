@@ -1,5 +1,5 @@
 {
-    "name": "bmt/isrc",
+    "name": "bmt/iswc",
     "description": "Class ISWC Represents an International Standard Musical Work Code (ISWC) and provides methods to manipulate it.",
     "type": "library",
     "license": "MIT",
